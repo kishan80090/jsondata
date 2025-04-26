@@ -128,6 +128,41 @@
         "price": 250,
         "image": "https://kishan80090.github.io/jsondata/pictures/bulb.jpg"
 
+    },
+    {
+        "name": "Tv",
+        "description": "Electronic",
+        "price": 50000,
+        "image": "https://kishan80090.github.io/jsondata/pictures/tv.jpg"
+
+    },
+    {
+        "name": "Mixcer",
+        "description": "Electronic",
+        "price": 3000,
+        "image": "https://kishan80090.github.io/jsondata/pictures/mixcer.jpg"
+
+    },
+    {
+        "name": "Cular",
+        "description": "Electronic",
+        "price": 11000,
+        "image": "https://kishan80090.github.io/jsondata/pictures/cular.jpg"
+
+    },
+    {
+        "name": "Earbird",
+        "description": "Electronic",
+        "price":550,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Earbird.jpg"
+
+    },
+    {
+        "name": "Fan",
+        "description": "Electronic",
+        "price": 250,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Fan.jpg"
+
     }
     
 ]
