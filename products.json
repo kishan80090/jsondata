@@ -3,30 +3,30 @@
         "name": "pepsi",
         "description": "Cold Drink",
         "price": 20,
-        "image": "https://kishan80090.github.io/jsondata/pictures/0image.jpg"
+        "image": "https://kishan80090.github.io/jsondata/pictures/Pepsi.jpg"
     },
     {
         "name": "coke",
         "description": "Cold Drink",
         "price": 150,
-        "image": "pic/Coke.jpg"
+        "image": "https://kishan80090.github.io/jsondata/pictures/Coke.jpg"
     },
     {
         "name": "charged",
         "description": "Cold Drink",
         "price": 50,
-        "image": "pic/Charged.jpg"
+        "image": "https://kishan80090.github.io/jsondata/pictures/Charged.jpg"
     },
     {
         "name": "fruit",
         "description": "Cold Drink",
         "price": 20,
-        "image": "pic/Fruit.jpg"
+        "image": "https://kishan80090.github.io/jsondata/pictures/Fruit.jpg"
     },
     {
         "name": "apple",
         "description": "Cold Drink",
         "price": 15,
-        "image": "pic/Apple.jpg"
+        "image": "https://kishan80090.github.io/jsondata/pictures/Apple.jpg"
     }
 ]
