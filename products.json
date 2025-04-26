@@ -28,5 +28,37 @@
         "description": "Cold Drink",
         "price": 15,
         "image": "https://kishan80090.github.io/jsondata/pictures/Apple.jpg"
+    },
+    {
+        "name": "Oil",
+        "description": "Hair oil",
+        "price": 45,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Oil.jpg"
+    },
+    {
+        "name": "Pen",
+        "description": "Pentonic Pen",
+        "price": 45,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Pen.jpg"
+    },
+    {
+        "name": "Book",
+        "description": "write page",
+        "price": 45,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Notbook.jpg"
+    },
+    {
+        "name": "Mobile",
+        "description": "Electronic",
+        "price": 45,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Phone.jpg"
+    },
+    {
+        "name": "Pensil",
+        "description": "Wood",
+        "price": 45,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Pensil.jpg"
     }
+    
+    
 ]
