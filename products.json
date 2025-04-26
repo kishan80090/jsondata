@@ -44,21 +44,90 @@
     {
         "name": "Book",
         "description": "write page",
-        "price": 45,
+        "price": 50,
         "image": "https://kishan80090.github.io/jsondata/pictures/Notbook.jpg"
     },
     {
         "name": "Mobile",
         "description": "Electronic",
-        "price": 45,
+        "price": 1200,
         "image": "https://kishan80090.github.io/jsondata/pictures/Phone.jpg"
     },
     {
         "name": "Pensil",
         "description": "Wood",
-        "price": 45,
+        "price": 30,
         "image": "https://kishan80090.github.io/jsondata/pictures/Pensil.jpg"
+    },
+    {
+        "name": "Laptop",
+        "description": "Electronic",
+        "price": 45000,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Laptop.jpg"
+
+    },
+    {
+        "name": "Mirror",
+        "description": "Mirror",
+        "price": 120,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Mirror.jpg"
+
+    },
+    {
+        "name": "Mirror",
+        "description": "Mirror",
+        "price": 120,
+        "image": "https://kishan80090.github.io/jsondata/pictures/Mirror.jpg"
+
+    },
+    {
+        "name": "Badam",
+        "description": "Badam",
+        "price": 628,
+        "image": "https://kishan80090.github.io/jsondata/pictures/badam.jpg"
+
+    },
+    {
+        "name": "kaju",
+        "description": "white kaju",
+        "price": 800,
+        "image": "https://kishan80090.github.io/jsondata/pictures/kaju.jpg"
+
+    },
+    {
+        "name": "Munkka",
+        "description": "Munkka",
+        "price": 800,
+        "image": "https://kishan80090.github.io/jsondata/pictures/munkka.jpg"
+
+    },
+    {
+        "name": "watch",
+        "description": "Electronic",
+        "price": 1500,
+        "image": "https://kishan80090.github.io/jsondata/pictures/watch.jpg"
+
+    },
+    {
+        "name": "clock",
+        "description": "Electronic",
+        "price": 250,
+        "image": "https://kishan80090.github.io/jsondata/pictures/clock.jpg"
+
+    },
+    {
+        "name": "pendulam",
+        "description": "Electronic",
+        "price": 250,
+        "image": "https://kishan80090.github.io/jsondata/pictures/pendulam.jpg"
+
+    },
+    {
+        "name": "Bulb",
+        "description": "Electronic",
+        "price": 250,
+        "image": "https://kishan80090.github.io/jsondata/pictures/bulb.jpg"
+
     }
-    
     
 ]
