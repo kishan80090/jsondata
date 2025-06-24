@@ -1,31 +1,31 @@
 [
     {
-    "Que_no": 1,
-        "Question":"What is C?",
+    "ques_no": 1,
+        "question":"What is C?",
         "a":"Programming Language",
         "b":"A game",
         "c":"A move",
         "d":"Node of these"
     },
     {
-        "Que_no": 2,
-        "Question":"What is the correct format specifier to print an interger in C?",
+        "ques_no": 2,
+        "question":"What is the correct format specifier to print an interger in C?",
         "a":"%c",
         "b":"%d",
         "c":"%f",
         "d":"%s"
     },
     {
-        "Que_no": 3,
-        "Question":"Which of the following is the correct syntax for the main function in C?",
+        "ques_no": 3,
+        "question":"Which of the following is the correct syntax for the main function in C?",
         "a":"void main()",
         "b":"int main()",
         "c":"main()",
         "d":"All of the above"
     },
     {
-        "Que_no": 4,
-        "Question":"Which of the following is used to take input from the user in C?",
+        "ques_no": 4,
+        "question":"Which of the following is used to take input from the user in C?",
         "a":"printf()",
         "b":"cin",
         "c":"scanf()",
