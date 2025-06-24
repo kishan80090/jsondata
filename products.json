@@ -1,5 +1,6 @@
 [
     {
+    "Que_no": 1,
         "Question":"What is C?",
         "a":"Programming Language",
         "b":"A game",
@@ -7,6 +8,7 @@
         "d":"Node of these"
     },
     {
+        "Que_no": 2,
         "Question":"What is the correct format specifier to print an interger in C?",
         "a":"%c",
         "b":"%d",
@@ -14,6 +16,7 @@
         "d":"%s"
     },
     {
+        "Que_no": 3,
         "Question":"Which of the following is the correct syntax for the main function in C?",
         "a":"void main()",
         "b":"int main()",
