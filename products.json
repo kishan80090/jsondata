@@ -24,6 +24,7 @@
         "d":"All of the above"
     },
     {
+        "Que_no": 4,
         "Question":"Which of the following is used to take input from the user in C?",
         "a":"printf()",
         "b":"cin",
