@@ -5,7 +5,8 @@
         "a":"Programming Language",
         "b":"A game",
         "c":"A move",
-        "d":"Node of these"
+        "d":"Node of these",
+        "correct":"a"
     },
     {
         "ques_no": "2",
@@ -13,7 +14,8 @@
         "a":"%c",
         "b":"%d",
         "c":"%f",
-        "d":"%s"
+        "d":"%s",
+        "correct":"b"
     },
     {
         "ques_no": "3",
@@ -21,7 +23,8 @@
         "a":"void main()",
         "b":"int main()",
         "c":"main()",
-        "d":"All of the above"
+        "d":"All of the above",
+        "correct":"b"
     },
     {
         "ques_no": "4",
@@ -29,6 +32,7 @@
         "a":"printf()",
         "b":"cin",
         "c":"scanf()",
-        "d":"input()"
+        "d":"input()",
+        "correct":"c"
     }
 ]
