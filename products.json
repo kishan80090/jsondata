@@ -36,7 +36,8 @@
         "b":"cin",
         "c":"scanf()",
         "d":"input()",
-        "correct":"c"
+        "correct":"c",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c7.jpg"
     },
     {
         "ques_no": "5",
@@ -45,7 +46,8 @@
         "b":"_value",
         "c":"first-name",
         "d":"class",
-        "correct":"b"
+        "correct":"b",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c++2.jpg"
     },
     {
         "ques_no": "6",
@@ -54,7 +56,8 @@
         "b":"struct",
         "c":"new",
         "d":"object",
-        "correct":"c"
+        "correct":"c",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c++3.jpg"
     },
     {
         "ques_no": "7",
@@ -63,7 +66,8 @@
         "b":"4 bytes",
         "c":"8 bytes",
         "d":"Depends on the compiler",
-        "correct":"b"
+        "correct":"b",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c++4.jpg"
     },
     {
         "ques_no": "8",
@@ -72,7 +76,8 @@
         "b":"//comment",
         "c":"Both A and B",
         "d":"# comment",
-        "correct":"c"
+        "correct":"c",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c++5.jpg"
     },
     {
         "ques_no": "9",
@@ -81,7 +86,8 @@
         "b":"void",
         "c":"class name",
         "d":"it has no return type",
-        "correct":"d"
+        "correct":"d",
+        "image":"https://kishan80090.github.io/jsondata/pictures/bluec++.jpg"
 
     },
     {
@@ -91,6 +97,7 @@
         "b":"structure",
         "c":"class",
         "d":"define",
-        "correct":"c"
+        "correct":"c",
+        "image":"https://kishan80090.github.io/jsondata/pictures/redc++.jpg"
     }
 ]
