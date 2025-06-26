@@ -34,5 +34,60 @@
         "c":"scanf()",
         "d":"input()",
         "correct":"c"
+    },
+    {
+        "ques_no": "5",
+        "question":"Which of following is a correct identifier in c++",
+        "a":"2 variable",
+        "b":"_value",
+        "c":"first-name",
+        "d":"class",
+        "correct":"b"
+    },
+    {
+        "ques_no": "6",
+        "question":"Which of the following is used to create an object in c++",
+        "a":"class",
+        "b":"struct",
+        "c":"new",
+        "d":"object",
+        "correct":"c"
+    },
+    {
+        "ques_no": "7",
+        "question":"What is the size of an int in c++(most 32-bit system)?",
+        "a":"2 bytes",
+        "b":"4 bytes",
+        "c":"8 bytes",
+        "d":"Depends on the compiler",
+        "correct":"b"
+    },
+    {
+        "ques_no": "8",
+        "question":"Which of the following is the correct syntax of c++ comment?",
+        "a":"/*comment*/",
+        "b":"//comment",
+        "c":"Both A and B",
+        "d":"# comment",
+        "correct":"c"
+    },
+    {
+        "ques_no": "9",
+        "question":"What is the return type of a constructor?",
+        "a":"int",
+        "b":"void",
+        "c":"class name",
+        "d":"it has no return type",
+        "correct":"d"
+
+    },
+    {
+        "ques_no": "10",
+        "question":"Which keyword is used to define a class in c++?",
+        "a":"object",
+        "b":"structure",
+        "c":"class",
+        "d":"define",
+        "correct":"c"
     }
 ]
