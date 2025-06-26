@@ -6,7 +6,8 @@
         "b":"A game",
         "c":"A move",
         "d":"Node of these",
-        "correct":"a"
+        "correct":"a",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c1.jpg"
     },
     {
         "ques_no": "2",
@@ -15,7 +16,8 @@
         "b":"%d",
         "c":"%f",
         "d":"%s",
-        "correct":"b"
+        "correct":"b",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c2.jpg"
     },
     {
         "ques_no": "3",
@@ -24,7 +26,8 @@
         "b":"int main()",
         "c":"main()",
         "d":"All of the above",
-        "correct":"b"
+        "correct":"b",
+        "image":"https://kishan80090.github.io/jsondata/pictures/c4.jpg"
     },
     {
         "ques_no": "4",
