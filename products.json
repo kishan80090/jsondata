@@ -7,6 +7,7 @@
         "c":"A move",
         "d":"Node of these",
         "correct":"a",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c1.jpg"
     },
     {
@@ -17,6 +18,7 @@
         "c":"%f",
         "d":"%s",
         "correct":"b",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c2.jpg"
     },
     {
@@ -27,6 +29,7 @@
         "c":"main()",
         "d":"All of the above",
         "correct":"b",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c4.jpg"
     },
     {
@@ -37,6 +40,7 @@
         "c":"scanf()",
         "d":"input()",
         "correct":"c",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c7.jpg"
     },
     {
@@ -47,6 +51,7 @@
         "c":"first-name",
         "d":"class",
         "correct":"b",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c++2.jpg"
     },
     {
@@ -57,6 +62,7 @@
         "c":"new",
         "d":"object",
         "correct":"c",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c++3.jpg"
     },
     {
@@ -67,6 +73,7 @@
         "c":"8 bytes",
         "d":"Depends on the compiler",
         "correct":"b",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c++4.jpg"
     },
     {
@@ -77,6 +84,7 @@
         "c":"Both A and B",
         "d":"# comment",
         "correct":"c",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/c++5.jpg"
     },
     {
@@ -87,6 +95,7 @@
         "c":"class name",
         "d":"it has no return type",
         "correct":"d",
+        "answer":"e",
         "image":"https://kishan80090.github.io/jsondata/pictures/bluec++.jpg"
 
     },
